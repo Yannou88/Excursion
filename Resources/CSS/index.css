@@ -1,0 +1,42 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+.title {
+  color: white;
+  font-size: 50px;
+  font-family: Verdana;
+  font-weight: normal;
+}
+
+.downloadexcursion {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+}
+
+.yourpersonalguide {
+  color: white;
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.remembers {
+  color: Gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+.comingsoon {
+  color: white;
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.copyright {
+  color: Gray;
+  text-align: right !important;
+}
